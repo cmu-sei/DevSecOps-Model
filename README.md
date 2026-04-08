@@ -1,1 +1,7 @@
-The DevSecOps Platform Independent Model uses Cameo Enterprise Architecture to create the model. This is self-contained web application exported from Cameo. To start using the self-contained web application open the index.html file with your web browser or navigate to https://cmu-sei.github.io/DevSecOps-Model
+# Repository Deprecated
+
+This revision of the DevSecOps Platform Independent Model (DevSecOps PIM) has
+been deprecated and is no longer updated.
+
+The current revision is available here: 
+[https://www.sei.cmu.edu/go/DevSecOps-Model/](https://www.sei.cmu.edu/go/DevSecOps-Model/)
